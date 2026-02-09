@@ -22,3 +22,5 @@
 - 动态原子结构图：可视化展示原子核和电子层分布
 5. 响应式设计
 - 区分手机端电脑端
+
+# [部署网页](https://shvhbmdqeg.github.io/chemistry-homework)
