@@ -23,4 +23,5 @@
 5. 响应式设计
 - 区分手机端电脑端
 
-# [部署网页](https://shvhbmdqeg.github.io/chemistry-homework)
+# [部署网页(Github)](https://shvhbmdqeg.github.io/chemistry-homework)
+# [部署网页(外站)](https://chemistry-homework.pages.dev/)
